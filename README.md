@@ -1,5 +1,6 @@
 # HoopStatR
 
+</br>
 
 ## Team Info
 This is the Github for the Hoop Stats R team!
