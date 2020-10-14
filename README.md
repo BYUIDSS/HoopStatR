@@ -6,7 +6,7 @@ This is the Github for the Hoop Stats R team!
 
 ### Goal:
 
-Show Madison Basketball what analytics we can do with their data!
+Provide Rexburg's Madison High School basketball coach with dynamic analytics Hudl or other apps can't provide.
 
 
 ### Next Step:
