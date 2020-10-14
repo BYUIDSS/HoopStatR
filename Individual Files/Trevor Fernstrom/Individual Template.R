@@ -8,7 +8,7 @@
 
 
 library(RSQLite)      # Can used to create a connection to a SQLite3 Database
-                      # Also downloads DBI, which is used to interact with the database
+# Also downloads DBI, which is used to interact with the database
 library(tidyverse)
 
 library(dplyr)
