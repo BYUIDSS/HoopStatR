@@ -3,7 +3,7 @@
 </br>
 
 ## Team Info
-This is the Github for the Hoop Stats R team!
+Welcome to the Github Repo for the Hoop Stats R team!
 
 ### Goal:
 
