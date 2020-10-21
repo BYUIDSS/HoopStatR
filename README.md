@@ -21,7 +21,7 @@ Provide Rexburg's Madison High School basketball coach with dynamic analytics Hu
 
 [Plotting in R with BB Court Reference](https://thedatagame.com.au/2015/09/27/how-to-create-nba-shot-charts-in-r/)  
 
-Where the Main Dynamic Analytics R File Is: [Team Files >> Hoopstats_Dynamic_Analytics.R](https://github.com/BYUIDSS/madisonBB_data/blob/master/Team%20Files/HoopStats%20Dynamic%20Analytics.R)
+Where the Main Dynamic Analytics R File Is: [Team Files >> Hoopstats_Dynamic_Analytics.R](https://github.com/BYUIDSS/HoopStatR/blob/master/Team%20Files/HoopStats%20Dynamic%20Analytics.R)
 
 </br>
 
