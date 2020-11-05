@@ -1,18 +1,12 @@
-
 ### HoopStats Dynamic Analytics
 ###
-<<<<<<< HEAD
-### <YOUR NAME>
-=======
-### Trevor Fernstrom
->>>>>>> 1af366377526b6b0d42598afc8c8c9b646cf5032
-
+### Clay Green
 
 
 
 
 library(RSQLite)      # Can used to create a connection to a SQLite3 Database
-                      # Also downloads DBI, which is used to interact with the database
+# Also downloads DBI, which is used to interact with the database
 library(tidyverse)
 
 library(dplyr)
@@ -24,7 +18,6 @@ library(grid)         # For rastering images to plot
 library(jpeg)         # For reading JPEGS
 
 library(RCurl)        # For downloading a URI
-
 
 
 
@@ -156,7 +149,7 @@ test_analytics <- function(conn, court_img) {
 ## Test with the HoopStats SQLite Database
 
 ## FILL IN THE PATH TO THE "HoopStats.sqlite" FILE
-conn <- create_sqlite_connection(db_path = "C:/Users/mneff/Documents/Git/HoopStatR/Hoop Stats Data/HoopStats.sqlite")
+conn <- create_sqlite_connection(db_path = "C:/Users/clayt/OneDrive/Documents/HoopStatR/HoopStatR/HoopStats.sqlite")
 
 
 
@@ -178,10 +171,3 @@ test_analytics(conn, court_plot_image) # Doesn't actually use court_plot_image, 
 
 
 # Call My Functions
-
-
-
-
-
-
-
