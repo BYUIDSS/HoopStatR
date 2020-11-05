@@ -1,0 +1,8 @@
+Z_ENT,Z_NAME,Z_SUPER,Z_MAX
+1,Event,0,104635
+2,Game,0,292
+3,League,0,14
+4,Player,0,2253
+5,Season,0,16
+6,Team,0,201
+7,TimeEvent,0,180301
